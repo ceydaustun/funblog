@@ -20,5 +20,5 @@ if(run_setup == TRUE) {
   install.packages("miniUI")
   
   # initial installation of Hugo
-  blogdown::install_hugo()
+   
 }

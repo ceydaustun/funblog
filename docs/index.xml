@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Slumdown</title>
@@ -6,10 +6,22 @@
     <description>Recent content in Home on Slumdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Funny post about strange situations</title>
+      <link>/post/funny-post-about-strange-situation/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/funny-post-about-strange-situation/</guid>
+      <description> I wanna talk some funny strange things, here below:
+A heading bıdıdbı  this that anything else  header kediss https://placekitten.com
+Placekitten
+  </description>
+    </item>
     
     <item>
       <title>Tutorial part 1: Getting started</title>

@@ -1,0 +1,25 @@
+---
+title: Funny post about strange situations
+author: minnie the belle
+date: '2020-06-02'
+slug: funny-post-about-strange-situation
+categories: [] 
+tags: []
+---
+
+I wanna talk some funny strange things, here below:
+
+## A heading bıdıdbı
+
+- this 
+- that
+- anything else
+
+
+### header kediss
+
+![](https://placekitten.com/300/300)
+
+https://placekitten.com
+
+[Placekitten](https://placekitten.com)
